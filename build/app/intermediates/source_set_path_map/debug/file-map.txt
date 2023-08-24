@@ -1,0 +1,35 @@
+com.example.k9k10connect.app-jetified-firebase-common-20.3.2-0 C:\Users\PROTTOY\.gradle\caches\transforms-3\026de80ea9d0b63bfc94ec9a10c1d73c\transformed\jetified-firebase-common-20.3.2\res
+com.example.k9k10connect.app-lifecycle-viewmodel-2.6.1-1 C:\Users\PROTTOY\.gradle\caches\transforms-3\1284691fd42e6a7cdb77eabd355c3560\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.k9k10connect.app-jetified-startup-runtime-1.1.1-2 C:\Users\PROTTOY\.gradle\caches\transforms-3\14dfc3983a4a46209f439b70d257468c\transformed\jetified-startup-runtime-1.1.1\res
+com.example.k9k10connect.app-jetified-savedstate-1.2.1-3 C:\Users\PROTTOY\.gradle\caches\transforms-3\1cce00ee595211086578e72735c6461d\transformed\jetified-savedstate-1.2.1\res
+com.example.k9k10connect.app-jetified-core-ktx-1.9.0-4 C:\Users\PROTTOY\.gradle\caches\transforms-3\2d9ca6c295eb688d7ab9d0909fed936a\transformed\jetified-core-ktx-1.9.0\res
+com.example.k9k10connect.app-jetified-window-1.0.0-beta04-5 C:\Users\PROTTOY\.gradle\caches\transforms-3\40ff8c014bc3b03149787e1d45a42dea\transformed\jetified-window-1.0.0-beta04\res
+com.example.k9k10connect.app-jetified-activity-1.7.0-6 C:\Users\PROTTOY\.gradle\caches\transforms-3\44e0b5b9c59e1518bdd90d689f0d595d\transformed\jetified-activity-1.7.0\res
+com.example.k9k10connect.app-jetified-annotation-experimental-1.3.0-7 C:\Users\PROTTOY\.gradle\caches\transforms-3\5de110dc71799d3cf665adf3417fdacd\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.k9k10connect.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-8 C:\Users\PROTTOY\.gradle\caches\transforms-3\5e93467b13fe70f9b92140a31e5438c7\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.k9k10connect.app-core-runtime-2.2.0-9 C:\Users\PROTTOY\.gradle\caches\transforms-3\67a6fecc4ba866a1e75a84d8a69871ab\transformed\core-runtime-2.2.0\res
+com.example.k9k10connect.app-lifecycle-runtime-2.6.1-10 C:\Users\PROTTOY\.gradle\caches\transforms-3\735f8807ecf05e417c0077150ca5d0a0\transformed\lifecycle-runtime-2.6.1\res
+com.example.k9k10connect.app-lifecycle-livedata-core-2.6.1-11 C:\Users\PROTTOY\.gradle\caches\transforms-3\76b88066b242dec067a1745c6e4c033d\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.k9k10connect.app-jetified-play-services-base-18.0.1-12 C:\Users\PROTTOY\.gradle\caches\transforms-3\8f31701e663a8c1514b353cc4d7239a2\transformed\jetified-play-services-base-18.0.1\res
+com.example.k9k10connect.app-core-1.9.0-13 C:\Users\PROTTOY\.gradle\caches\transforms-3\9008b2a9fb01102d26fd2f78c055a96b\transformed\core-1.9.0\res
+com.example.k9k10connect.app-jetified-play-services-basement-18.1.0-14 C:\Users\PROTTOY\.gradle\caches\transforms-3\ad3fb7e0e58165c0e3c87f8f0d79631f\transformed\jetified-play-services-basement-18.1.0\res
+com.example.k9k10connect.app-lifecycle-livedata-2.6.1-15 C:\Users\PROTTOY\.gradle\caches\transforms-3\b6ded804b264f1b9098db8fd354ef78f\transformed\lifecycle-livedata-2.6.1\res
+com.example.k9k10connect.app-browser-1.4.0-16 C:\Users\PROTTOY\.gradle\caches\transforms-3\c1463af6cb467bf02a2c891016443d37\transformed\browser-1.4.0\res
+com.example.k9k10connect.app-jetified-window-java-1.0.0-beta04-17 C:\Users\PROTTOY\.gradle\caches\transforms-3\ed438543a8e9ffa856a2b095c92f0ea3\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.k9k10connect.app-jetified-profileinstaller-1.3.0-18 C:\Users\PROTTOY\.gradle\caches\transforms-3\ef4c45e08659a72755f147d134c0e2af\transformed\jetified-profileinstaller-1.3.0\res
+com.example.k9k10connect.app-debug-19 E:\1.palol corp\1 app development\k9k10\k9k10connect\android\app\src\debug\res
+com.example.k9k10connect.app-main-20 E:\1.palol corp\1 app development\k9k10\k9k10connect\android\app\src\main\res
+com.example.k9k10connect.app-google-services-21 E:\1.palol corp\1 app development\k9k10\k9k10connect\build\app\generated\res\google-services\debug
+com.example.k9k10connect.app-pngs-22 E:\1.palol corp\1 app development\k9k10\k9k10connect\build\app\generated\res\pngs\debug
+com.example.k9k10connect.app-resValues-23 E:\1.palol corp\1 app development\k9k10\k9k10connect\build\app\generated\res\resValues\debug
+com.example.k9k10connect.app-rs-24 E:\1.palol corp\1 app development\k9k10\k9k10connect\build\app\generated\res\rs\debug
+com.example.k9k10connect.app-mergeDebugResources-25 E:\1.palol corp\1 app development\k9k10\k9k10connect\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.k9k10connect.app-mergeDebugResources-26 E:\1.palol corp\1 app development\k9k10\k9k10connect\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.k9k10connect.app-merged_res-27 E:\1.palol corp\1 app development\k9k10\k9k10connect\build\app\intermediates\merged_res\debug
+com.example.k9k10connect.app-packaged_res-28 E:\1.palol corp\1 app development\k9k10\k9k10connect\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.k9k10connect.app-packaged_res-29 E:\1.palol corp\1 app development\k9k10\k9k10connect\build\file_picker\intermediates\packaged_res\debug
+com.example.k9k10connect.app-packaged_res-30 E:\1.palol corp\1 app development\k9k10\k9k10connect\build\firebase_auth\intermediates\packaged_res\debug
+com.example.k9k10connect.app-packaged_res-31 E:\1.palol corp\1 app development\k9k10\k9k10connect\build\firebase_core\intermediates\packaged_res\debug
+com.example.k9k10connect.app-packaged_res-32 E:\1.palol corp\1 app development\k9k10\k9k10connect\build\firebase_storage\intermediates\packaged_res\debug
+com.example.k9k10connect.app-packaged_res-33 E:\1.palol corp\1 app development\k9k10\k9k10connect\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.k9k10connect.app-packaged_res-34 E:\1.palol corp\1 app development\k9k10\k9k10connect\build\image_picker_android\intermediates\packaged_res\debug
